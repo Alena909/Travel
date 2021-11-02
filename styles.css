@@ -1,53 +1,51 @@
-body{
-  
-    font-family: 'Nunito Sans', sans-serif;
-    color: #333;
+body {
+  font-family: "Nunito Sans", sans-serif;
+  color: #333;
 }
 
-#home{
-    background: url(images/seoul-1477046_1920w.jpg);
-    background-size: cover;
-    height: 50vh;
-    color:white;
+#home {
+  background: url(images/seoul-1477046_1920w.jpg);
+  background-size: cover;
+  height: 50vh;
+  color: white;
 }
 
-.display-4{
-    font-weight: 800;
-    font-size: 4em;
-    padding-top: 0.5em;
-   
-    }
-.row{
-    text-align: center;
-    padding: 30px 0;
-} 
-
-#stay{
-    background-color: rgba(39, 36, 224, 1);
- 
-  
-   
+.display-4 {
+  font-weight: 800;
+  font-size: 4em;
+  padding-top: 0.5em;
 }
-.dark-background{
-    color: white;
-   
-}
-.card{
-    margin: 0 auto;
+.row {
+  text-align: center;
+  padding: 30px 0;
 }
 
-.place, .stay-column{
-    padding-bottom: 1.2em;
+#stay {
+  background-color: rgba(39, 36, 224, 1);
 }
-footer{
-    background-color: rgba(39, 36, 224, 1);
-    color: white;
-    padding: 20px;
-    margin: 0 auto;
-    text-align: center;
+.dark-background {
+  color: white;
 }
-.fa{
-    color: white;
-    padding: 20px 20px 10px 20px;
-    font-size: 20px;
+.card {
+  margin: 0 auto;
+}
+.card-body {
+  height: 240px;
+}
+
+.place,
+.stay-column {
+  padding-bottom: 1.2em;
+}
+footer {
+  background-color: rgba(39, 36, 224, 1);
+  color: white;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
+.fa {
+  color: white;
+  padding: 20px 20px 10px 20px;
+  font-size: 20px;
 }
