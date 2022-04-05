@@ -49,3 +49,11 @@ footer {
   padding: 20px 20px 10px 20px;
   font-size: 20px;
 }
+.about a {
+  color: yellow;
+  text-decoration: none;
+  cursor: pointer;
+}
+.about a:hover {
+  color: red;
+}
